@@ -78,7 +78,11 @@ BiocKubeInstall github page: https://github.com/Bioconductor/BiocKubeInstall/
 
 AnVIL: https:anvil.terra.bio
 
-AnVIL usage link: https://www.loom.com/share/5edfe6323c5042e1a2efd4ee33afab4e
+AnVIL usage demo: 
+
+- Login, Create workspace (if it does not exist), Start RStudio interactive environment, Use Bioconductor
+
+https://www.loom.com/share/1c7e775f74594446b5ad5244f5d13197
 
 Bioconductor SLACK channel: https://bioc-community.herokuapp.com/
 
