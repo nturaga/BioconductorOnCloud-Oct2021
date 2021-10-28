@@ -2,6 +2,10 @@
 
 22nd National and 5th International Biostatistics Conference - Turkey
 
+## Author
+
+Nitesh Turaga
+
 ## Slides
 
 https://bit.ly/bioc-cloud-oct2021
@@ -51,3 +55,36 @@ res2 <- microbenchmark::microbenchmark(
 
 res2
 ```
+
+## Links in slides
+
+Bioconductor release : https://bioconductor.org/books/release/
+
+Bioconductor build check results page: http://bioconductor.org/checkResults/
+
+OSCA basic book: http://bioconductor.org/books/3.14/OSCA.basic/
+
+OSCA basic book quality control `sessionInfo()`: http://bioconductor.org/books/3.14/OSCA.basic/quality-control.html#session-info
+
+Bioconductor docker images: http://bioconductor.org/help/docker/
+
+Bioconductor docker images on Microsoft container registry: https://hub.docker.com/_/microsoft-bioconductor-bioconductor-docker
+
+Bioconductor docker images on Dockerhub: https://hub.docker.com/repository/docker/bioconductor/bioconductor_docker
+
+How to add / modify Bioconductor docker images: http://bioconductor.org/help/docker/#modify 
+
+BiocKubeInstall github page: https://github.com/Bioconductor/BiocKubeInstall/
+
+AnVIL: https:anvil.terra.bio
+
+AnVIL usage link: https://www.loom.com/share/5edfe6323c5042e1a2efd4ee33afab4e
+
+Bioconductor SLACK channel: https://bioc-community.herokuapp.com/
+
+## Questions
+
+Please direct them to `nitesh at ds.dfci.harvard.edu`
+
+
+
