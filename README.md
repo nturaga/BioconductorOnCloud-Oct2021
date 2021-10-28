@@ -3,3 +3,6 @@
 
 
 Slides: https://bit.ly/bioc-cloud-oct2021
+
+
+Fast package installation demo: https://nturaga.github.io/bioc2021-bioconductor-binaries/ 
