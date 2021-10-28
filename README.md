@@ -8,7 +8,7 @@ https://bit.ly/bioc-cloud-oct2021
 
 ## Fast package installation demo
 
-- Demo https://nturaga.github.io/bioc2021-bioconductor-binaries/ 
+https://nturaga.github.io/bioc2021-bioconductor-binaries/ 
 
 ## Binary installation benchmarking
 
