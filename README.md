@@ -31,3 +31,23 @@ res <- microbenchmark::microbenchmark(
 
 res
 ```
+
+## OSCA Basics book - quality control experiment
+
+```
+pkgs_OSCA_basics_qc <- c('scRNAseq','scuttle', 'robustbase', 'scater', 'org.Mm.eg.db')
+
+AnVIL::install(pkgs_OSCA_basics_qc) # binary install
+         
+BiocManager::install(pkgs_OSCA_basics_qc) # traditional install
+
+## benchmark if needed
+
+res2 <- microbenchmark::microbenchmark(
+    "binary" = {AnVIL::install(pkgs_OSCA_basics_qc)},
+    "traditional" = {BiocManager::install(pkgs_OSCA_basics_qc), force = TRUE)},
+    times = 2L ## Run the same process two times
+)
+
+res2
+```
